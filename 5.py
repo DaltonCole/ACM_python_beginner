@@ -43,5 +43,3 @@ print(min(l2)) # a
 l3 = list((1, 2, 3)) # Tuple to list
 
 l1.append(l2) # [1, 2, 3, 4, 5, 7, 'a', 'Johnny Boy', ['a', 'b', 'c']]
-l2 = l1
-print(l2)

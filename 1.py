@@ -33,7 +33,7 @@ really_small_number = .12345678912e-17
 list_variable = [1, 2, 3, 'a', 'b', ['string1', "string2"]]
 
 # Tuple
-tuple_variable = (1, 2, 3, 'a') # Tuples are like arrays, but immutable
+tuple_variable = (1, 2, 3, 'a') # Tuples are like lists, but immutable
 
 # Dictionary (map in C++)
 dictionary_variable = {1: 'a', 'b': 2}
