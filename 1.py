@@ -1,3 +1,4 @@
+
 # Basic syntax - Types
 
 # This is a comment by the way. The python interpreter completely ignores me. Octothorpes scare him.
@@ -13,6 +14,8 @@ print("I will print something to the terminal") # Note the (), in < 2.7, you don
 if True:
 	# Notice the indentation. This represents a new block of code that the if will use
 	print("True")
+elif 5 == 10:
+	print("This is False and will never be printed")
 else:
 	print("False")
 
